@@ -1,0 +1,11 @@
+{
+    'tarefa_salva': 
+    [
+        {
+            'texto': 'estudar ingles',
+            'status': False
+        },
+        {'texto': 'estudar programacao',
+         'status': True},
+        {'texto': 'estudar redacao', 'status': False}],
+         'data': '02/08/2025 16:41'}
